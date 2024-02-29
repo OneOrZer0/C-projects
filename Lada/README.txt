@@ -1,0 +1,1 @@
+Jest to program, który umożliwia nam częściowe przejęcie kontroli nad komputerem, na którym został uruchomiony. Odbywa się to poprzez udostępniony w sieci katalog, z którego program pobiera komendy, które wykonuje poprzez skrypty bat. Wynik jest przesyłany z powrotem do udostępnionego katalogu, który następnie jest odczytywany przez program sterujący.

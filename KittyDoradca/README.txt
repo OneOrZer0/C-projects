@@ -1,0 +1,1 @@
+Program wykorzystujący bibliotekę graficzną SDL2 do przedstawienia w formie graficznej zaproponowanych opcji wyboru płyty głównej do stacji roboczej.

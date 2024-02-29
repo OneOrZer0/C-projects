@@ -1,0 +1,1 @@
+Program napisany na zaliczenie przedmiotu z programowania w języku c++. Tworzy on plik tekstowy oraz udostępnia interfejsc do zarządzania jego zawartością. Główne funkcje programu to: Tworzenie nowej notatki, dodawanie wpisu, usuwanie wpisu, edytowanie wybranej lini tekstu.

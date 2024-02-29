@@ -1,0 +1,1 @@
+Jest to gra napisana w C++ wykorzystująca bibliotekę SDL2. W grze postacie mają życie oraz zbierają monety, które później przekładają się na punkty.
