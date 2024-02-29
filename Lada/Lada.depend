@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611556620 source:c:\users\kochana\desktop\c++\lada\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+

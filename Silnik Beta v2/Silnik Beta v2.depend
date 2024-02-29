@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1492984400 source:c:\users\star butterfly\desktop\programy c++\silnik beta v2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1493905265 source:g:\przydatne\markowe programy\silnik beta v2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1494365038 source:d:\przydatne\markowe programy\silnik beta v2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1498729697 source:e:\gra\silnik beta v2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1505943142 source:f:\dane\gra\silnik beta v2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1505945217 source:x:\c++\silnik beta v2\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+

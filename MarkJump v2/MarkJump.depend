@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1538693655 source:q:\c++\markjump\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<time.h>
+
+1538694154 source:n:\c++\markjump\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<time.h>
+
+1538697754 source:x:\c++\markjump\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<time.h>
+
+1562582607 source:x:\c++\markjump v2\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<time.h>
+

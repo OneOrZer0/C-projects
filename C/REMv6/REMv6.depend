@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574347210 source:x:\c\remv6\remv6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<conio.h>
+

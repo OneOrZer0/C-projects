@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1533906848 source:e:\c++\klient\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+
+1533856054 source:e:\c++\klient — kopia\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+
+1583171957 source:x:\c++\kolejka!!!!!\klient\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+

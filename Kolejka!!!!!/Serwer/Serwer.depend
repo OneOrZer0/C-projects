@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1533913670 source:e:\c++\serwer\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<fstream>
+
+1583171479 source:m:\c++\kolejka!!!!!\serwer\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<fstream>
+

@@ -1,0 +1,117 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Kochana-Nikol
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek Gaming GBE Family Controller
+   Physical Address. . . . . . . . . : B8-97-5A-EE-6D-92
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::117:727:b0e5:a2b8%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 554303527
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-7B-CC-36-B8-97-5A-EE-6D-92
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Poˆ¥czenie lokalne* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 52-3E-AA-53-FD-7B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Poˆ¥czenie lokalne* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 50-3E-AA-53-FD-7B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2873:afa0:1c0b:b951%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.221.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : poniedziaˆek, 25 stycznia 2021 08:02:26
+   Lease Expires . . . . . . . . . . : poniedziaˆek, 25 stycznia 2021 10:47:14
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.221.254
+   DHCPv6 IAID . . . . . . . . . . . : 671109206
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-7B-CC-36-B8-97-5A-EE-6D-92
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f965:be85:97b1:4fb7%2(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.111.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : poniedziaˆek, 25 stycznia 2021 08:02:29
+   Lease Expires . . . . . . . . . . : poniedziaˆek, 25 stycznia 2021 10:47:14
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.111.254
+   DHCPv6 IAID . . . . . . . . . . . : 687886422
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-7B-CC-36-B8-97-5A-EE-6D-92
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   Primary WINS Server . . . . . . . : 192.168.111.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TP-Link Wireless USB Adapter
+   Physical Address. . . . . . . . . : 50-3E-AA-53-FD-7B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fdb0:eb57:13f2:fe00:9cf4:7921:57a:6f17(Preferred) 
+   Temporary IPv6 Address. . . . . . : fdb0:eb57:13f2:fe00:dddf:bea8:fe8:7e11(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::9cf4:7921:57a:6f17%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.8.111(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : poniedziaˆek, 25 stycznia 2021 08:02:14
+   Lease Expires . . . . . . . . . . : wtorek, 26 stycznia 2021 08:02:15
+   Default Gateway . . . . . . . . . : 192.168.8.1
+   DHCP Server . . . . . . . . . . . : 192.168.8.1
+   DHCPv6 IAID . . . . . . . . . . . : 357580458
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-7B-CC-36-B8-97-5A-EE-6D-92
+   DNS Servers . . . . . . . . . . . : 192.168.8.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled

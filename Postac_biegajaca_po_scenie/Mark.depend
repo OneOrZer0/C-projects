@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1529342004 source:c:\users\kochana\desktop\markeå\mark\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+
+1531394666 source:e:\c++\mark\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<windows.h>
+
